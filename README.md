@@ -2,8 +2,8 @@
 
 
 
-![japa GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_DanielCalca-Design&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_DanielCalca-Design&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![japa GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcalca-Design&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcalca-Design&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
